@@ -4,9 +4,9 @@ set -e
 
 DOTS="..............................................................................\n"
 printf "$DOTS"
-printf ".                              "
-printf "Running tests..."
-printf "                              .\n"
+printf ".                               "
+printf "Deploy app..."
+printf "                                .\n"
 printf "$DOTS"
 
 exit 0
